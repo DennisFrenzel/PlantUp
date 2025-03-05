@@ -1,7 +1,3 @@
-Here’s a structured GitHub page description for **Plant Up**, inspired by your example:  
-
----
-
 # 🌱 Plant Up – Smart Gardening, Gamified  
 
 ## 🚀 Overview  
@@ -20,16 +16,16 @@ With **Plant Up**, you can:
 
 ## 🛠️ Tech Stack & Features  
 
-| Feature                     | Technology / Library                                                                                   |  
-|-----------------------------|------------------------------------------------------------------------------------------------------|  
-| **Smart Sensors**           | IoT-based **soil moisture, temperature, and light sensors**                                          |  
-| **State Management**        | [Zustand](https://github.com/pmndrs/zustand)                                                         |  
-| **Data Visualization**      | Interactive charts & graphs for real-time plant monitoring                                           |  
-| **Gamification System**     | Level-up system with XP, rewards, and badges                                                        |  
-| **Social Interaction**      | Community forums, plant sharing, and expert mentoring                                               |  
-| **Push Notifications**      | Timely reminders for watering, fertilizing, and pest control                                        |  
-| **Animations & UI**         | [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)               |  
-| **Cloud Sync & Backup**     | Firebase-based data storage and backup for plant care history                                       |  
+| Feature                 | Technology / Library                                                                   |
+| ----------------------- | -------------------------------------------------------------------------------------- |
+| **Smart Sensors**       | IoT-based **soil moisture, temperature, and light sensors**                            |
+| **State Management**    | [Zustand](https://github.com/pmndrs/zustand)                                           |
+| **Data Visualization**  | Interactive charts & graphs for real-time plant monitoring                             |
+| **Gamification System** | Level-up system with XP, rewards, and badges                                           |
+| **Social Interaction**  | Community forums, plant sharing, and expert mentoring                                  |
+| **Push Notifications**  | Timely reminders for watering, fertilizing, and pest control                           |
+| **Animations & UI**     | [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) |
+| **Cloud Sync & Backup** | Firebase-based data storage and backup for plant care history                          |
 
 ---  
 
@@ -40,9 +36,10 @@ NOT YET DEFINED
 ---  
 
 ## 🛠️ Installation & Setup  
+```
+
 
 ### 1️⃣ **Clone the Repository**  
-
 ```sh
 git clone https://github.com/RichardOnu/Plant-Up.git
 cd Plant-Up
