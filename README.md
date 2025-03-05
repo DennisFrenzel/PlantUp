@@ -9,7 +9,7 @@ With **Plant Up**, you can:
 ✅ **Track Soil Moisture, Temperature & Sunlight** ☀️  
 ✅ **Get Real-Time Recommendations** 📊  
 ✅ **Level Up & Earn Rewards** 🎮  
-✅ **Compete in Gardening Challenges** 🏆  
+✅ **Complete Gardening Challenges** 🏆  
 ✅ **Engage with a Gardening Community** 🌍  
 
 ---  
@@ -19,13 +19,13 @@ With **Plant Up**, you can:
 | Feature                 | Technology / Library                                                                   |
 | ----------------------- | -------------------------------------------------------------------------------------- |
 | **Smart Sensors**       | IoT-based **soil moisture, temperature, and light sensors**                            |
-| **State Management**    | [Zustand](https://github.com/pmndrs/zustand)                                           |
+| **State Management**    | (to be defined)                                                                        |
 | **Data Visualization**  | Interactive charts & graphs for real-time plant monitoring                             |
 | **Gamification System** | Level-up system with XP, rewards, and badges                                           |
 | **Social Interaction**  | Community forums, plant sharing, and expert mentoring                                  |
-| **Push Notifications**  | Timely reminders for watering, fertilizing, and pest control                           |
+| **Push Notifications**  | (to be defined)                                                                        |
 | **Animations & UI**     | [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) |
-| **Cloud Sync & Backup** | (to be defined)-based data storage and backup for plant care history                          |
+| **Cloud Sync & Backup** | (to be defined)-based data storage and backup for plant care history                   |
 
 ---  
 
