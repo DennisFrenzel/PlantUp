@@ -25,7 +25,7 @@ With **Plant Up**, you can:
 | **Social Interaction**  | Community forums, plant sharing, and expert mentoring                                  |
 | **Push Notifications**  | Timely reminders for watering, fertilizing, and pest control                           |
 | **Animations & UI**     | [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) |
-| **Cloud Sync & Backup** | Firebase-based data storage and backup for plant care history                          |
+| **Cloud Sync & Backup** | (to be defined)-based data storage and backup for plant care history                          |
 
 ---  
 
